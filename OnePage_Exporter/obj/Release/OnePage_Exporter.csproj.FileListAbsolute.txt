@@ -1,0 +1,11 @@
+C:\Users\Pizsx69\source\repos\OnePage_Exporter\OnePage_Exporter\bin\Release\OnePage_Exporter.exe.config
+C:\Users\Pizsx69\source\repos\OnePage_Exporter\OnePage_Exporter\bin\Release\OnePage_Exporter.exe
+C:\Users\Pizsx69\source\repos\OnePage_Exporter\OnePage_Exporter\bin\Release\OnePage_Exporter.pdb
+C:\Users\Pizsx69\source\repos\OnePage_Exporter\OnePage_Exporter\obj\Release\OnePage_Exporter.csproj.AssemblyReference.cache
+C:\Users\Pizsx69\source\repos\OnePage_Exporter\OnePage_Exporter\obj\Release\OnePage_Exporter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pizsx69\source\repos\OnePage_Exporter\OnePage_Exporter\obj\Release\OnePage_Exporter.Form1.resources
+C:\Users\Pizsx69\source\repos\OnePage_Exporter\OnePage_Exporter\obj\Release\OnePage_Exporter.Properties.Resources.resources
+C:\Users\Pizsx69\source\repos\OnePage_Exporter\OnePage_Exporter\obj\Release\OnePage_Exporter.csproj.GenerateResource.cache
+C:\Users\Pizsx69\source\repos\OnePage_Exporter\OnePage_Exporter\obj\Release\OnePage_Exporter.csproj.CoreCompileInputs.cache
+C:\Users\Pizsx69\source\repos\OnePage_Exporter\OnePage_Exporter\obj\Release\OnePage_Exporter.exe
+C:\Users\Pizsx69\source\repos\OnePage_Exporter\OnePage_Exporter\obj\Release\OnePage_Exporter.pdb
