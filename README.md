@@ -3,3 +3,5 @@
 
 
 Download link: https://github.com/Pizsx69/OnePage_Exporter/blob/main/OnePage_Exporter/bin/Release/OnePage_Exporter.exe
+
+By: Pizs\x69
