@@ -66,9 +66,7 @@ namespace OnePage_Exporter
         {
             this.openFileDialog1.Filter = "Pdf Files|*.pdf";
 
-            // Allow the user to select multiple images.
-            this.openFileDialog1.Multiselect = true;
-            this.openFileDialog1.Title = "My Image Browser";
+            this.openFileDialog1.Title = "My PDF Browser";
 
             DialogResult dr = this.openFileDialog1.ShowDialog();
             if (dr == System.Windows.Forms.DialogResult.OK)
@@ -80,7 +78,7 @@ namespace OnePage_Exporter
                 try
                 {
                     //pdfs.Add(file);
-                    label1.Text = file_name;
+                    label1.Text = "Filename: "+ openFileDialog1.SafeFileName;
                     PDF_Path = file_name;
                     export_button.Visible = true;
                 }
@@ -95,7 +93,7 @@ namespace OnePage_Exporter
                 catch (Exception ex)
                 {
                     // Could not load the image - probably related to Windows file system permissions.
-                    MessageBox.Show("Cannot display the image: " + file_name.Substring(file_name.LastIndexOf('\\'))
+                    MessageBox.Show("Cannot open the pdf: " + file_name.Substring(file_name.LastIndexOf('\\'))
                         + ". You may not have permission to read the file, or " +
                         "it may be corrupt.\n\nReported error: " + ex.Message);
                 }
